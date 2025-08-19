@@ -1,5 +1,5 @@
 # DiceApp
-An app with two die. Click the button to roll them! 
+An app with two die! Click the button to roll them.
 
 
 ## Update 1.1
