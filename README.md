@@ -3,7 +3,7 @@ An app with two die! Click the button to roll them.
 
 
 ## Update 1.1
-App is responsive! Can be played horizontally.
+App is responsive! Can be played horizontally. 
 
 https://github.com/user-attachments/assets/14857ab5-c578-4a83-973b-9c7ae502da73
 
